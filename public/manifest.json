@@ -1,0 +1,13 @@
+{
+  "name": "HOCHTIEF Active Reporting Tool",
+  "short_name": "HART",
+  "lang": "en",
+  "start_url": "https://themis.ukht.org/XWeb/PublicAssets/external/public/observations?id=Select",
+  "display": "standalone",
+  "theme_color": "#024a94",
+  "icons": [
+    {
+      "src": "HART.jpg"
+    }
+  ]
+}
